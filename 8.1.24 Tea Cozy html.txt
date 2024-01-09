@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tea Cozy</title>
+    <link rel="stylesheet" href="./index.css">
+</head>
+<body>
+    <header>
+        <nav class="flex-container1">
+            <img class="logo" src="https://content.codecademy.com/courses/freelance-1/unit-4/img-tea-cozy-logo.png">
+            <a href="#">Mission</a>
+            <a href="#">Featured Tea</a>
+            <a href="#">Locations</a>
+        </nav>
+    </header>
+    <main>
+    <section class="mission">
+        <img class="flex-container2" src="https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg"></img>
+        <h2>Our Mission</h2>
+        <h4>Handpicked, Artisanally Curated, Free Range, Sustainable, Small Batch, Fair Trade, Organic Tea</h4>
+    </section>
+    </main>
+</body>
+</html>
